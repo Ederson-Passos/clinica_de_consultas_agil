@@ -22,7 +22,7 @@ O sistema foi integralmente escrito em linguagem Python, sendo utilizadas as bib
 
 a. `csv`: para criação e manipulação de arquivos .csv (comma-separated-values), que contém os dados dos usuários armazenados, possibilitando sua recuperação ao reiniciar o sistema;
 b. `Pandas`: para a criação e manejo de dataframes, facilitando a exibição dos cadastros e registros de cada usuário;
-c. `datetime`: fornece as informações temporais para execução correta do código, conforme o solicitado no desafio (por exemplo, não possibilitar agendamentos anteriores à data presente.
+c. `datetime`: fornece as informações temporais para execução correta do código, conforme o solicitado no desafio (por exemplo, não possibilitar agendamentos anteriores à data presente).
 
 No desenvolvimento do código buscou-se seguir o método de encapsulamento e organização em blocos de funções, com utilização de passagem de parâmetros e retornos; também foi dada atenção especial ao tratamentos de erros e exceções que impedissem o correto funcionamento do sistema durante a execução.
 
